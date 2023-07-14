@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "my_krml_149874"
-version = "0.1.2"
+version = "0.1.3"
 description = "My sweet Python package for ML projects"
 authors = ["Anthony So"]
 license = "GNU General Public License v3.0"
